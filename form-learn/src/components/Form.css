@@ -1,0 +1,24 @@
+html {
+	background-color: #1d2024;
+}
+form {
+	color: cornsilk;
+	background-color: #1d2024;
+	padding-left: 7%;
+}
+
+.form-table {
+	width: 80%;
+	background-color: #1d2024;
+}
+
+.btn {
+	transform: translateX(20%);
+}
+
+table{
+	padding-left: 7%;
+    width: 80%;
+
+    
+}
